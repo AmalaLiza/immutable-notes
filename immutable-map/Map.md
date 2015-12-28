@@ -1,4 +1,4 @@
-//Map() and related methods
+**Map()**
 
 const data = {
   'todo 1': {
