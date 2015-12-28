@@ -1,6 +1,7 @@
 **Map()**
 
-`const data = {
+```
+const data = {
   'todo 1': {
     title: 'todo 1',
     value: 'first todo'
@@ -36,4 +37,5 @@ map = map.delete('todo 3');
 // isMap()
 console.log(Immutable.Map.isMap(map));
 
-console.log(map.toJS());`
+console.log(map.toJS());
+```
